@@ -1,0 +1,14 @@
+h1 {
+    color: violet;
+}
+
+p {
+   text-font:20 pt;
+
+}
+
+canvas {
+    width:500px;
+    height:300px;
+    border: 1px solid red;
+}

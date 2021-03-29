@@ -1,0 +1,16 @@
+C:\Users\Moppy\CodeBootcamp\Koodit\DotNet\KysyNimi\obj\MCD\Debug\net5.0\KysyNimi.csprojAssemblyReference.cache
+C:\Users\Moppy\CodeBootcamp\Koodit\DotNet\KysyNimi\obj\MCD\Debug\net5.0\KysyNimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moppy\CodeBootcamp\Koodit\DotNet\KysyNimi\obj\MCD\Debug\net5.0\KysyNimi.AssemblyInfoInputs.cache
+C:\Users\Moppy\CodeBootcamp\Koodit\DotNet\KysyNimi\obj\MCD\Debug\net5.0\KysyNimi.AssemblyInfo.cs
+C:\Users\Moppy\CodeBootcamp\Koodit\DotNet\KysyNimi\obj\MCD\Debug\net5.0\KysyNimi.csproj.CoreCompileInputs.cache
+C:\Users\Moppy\CodeBootcamp\Koodit\DotNet\KysyNimi\bin\MCD\Debug\net5.0\KysyNimi.exe
+C:\Users\Moppy\CodeBootcamp\Koodit\DotNet\KysyNimi\bin\MCD\Debug\net5.0\KysyNimi.deps.json
+C:\Users\Moppy\CodeBootcamp\Koodit\DotNet\KysyNimi\bin\MCD\Debug\net5.0\KysyNimi.runtimeconfig.json
+C:\Users\Moppy\CodeBootcamp\Koodit\DotNet\KysyNimi\bin\MCD\Debug\net5.0\KysyNimi.runtimeconfig.dev.json
+C:\Users\Moppy\CodeBootcamp\Koodit\DotNet\KysyNimi\bin\MCD\Debug\net5.0\KysyNimi.dll
+C:\Users\Moppy\CodeBootcamp\Koodit\DotNet\KysyNimi\bin\MCD\Debug\net5.0\ref\KysyNimi.dll
+C:\Users\Moppy\CodeBootcamp\Koodit\DotNet\KysyNimi\bin\MCD\Debug\net5.0\KysyNimi.pdb
+C:\Users\Moppy\CodeBootcamp\Koodit\DotNet\KysyNimi\obj\MCD\Debug\net5.0\KysyNimi.dll
+C:\Users\Moppy\CodeBootcamp\Koodit\DotNet\KysyNimi\obj\MCD\Debug\net5.0\ref\KysyNimi.dll
+C:\Users\Moppy\CodeBootcamp\Koodit\DotNet\KysyNimi\obj\MCD\Debug\net5.0\KysyNimi.pdb
+C:\Users\Moppy\CodeBootcamp\Koodit\DotNet\KysyNimi\obj\MCD\Debug\net5.0\KysyNimi.genruntimeconfig.cache
