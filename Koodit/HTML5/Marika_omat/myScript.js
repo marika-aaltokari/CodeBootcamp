@@ -1,1 +1,0 @@
-console.log("My first HTML excercise at Code Bootcamp")
