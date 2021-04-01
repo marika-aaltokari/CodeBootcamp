@@ -1,0 +1,16 @@
+C:\Users\Moppy\CodeBootcamp\DotNet\Ohjelmistologiikka\obj\MCD\Debug\net5.0\Ohjelmistologiikka.csprojAssemblyReference.cache
+C:\Users\Moppy\CodeBootcamp\DotNet\Ohjelmistologiikka\obj\MCD\Debug\net5.0\Ohjelmistologiikka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moppy\CodeBootcamp\DotNet\Ohjelmistologiikka\obj\MCD\Debug\net5.0\Ohjelmistologiikka.AssemblyInfoInputs.cache
+C:\Users\Moppy\CodeBootcamp\DotNet\Ohjelmistologiikka\obj\MCD\Debug\net5.0\Ohjelmistologiikka.AssemblyInfo.cs
+C:\Users\Moppy\CodeBootcamp\DotNet\Ohjelmistologiikka\obj\MCD\Debug\net5.0\Ohjelmistologiikka.csproj.CoreCompileInputs.cache
+C:\Users\Moppy\CodeBootcamp\DotNet\Ohjelmistologiikka\bin\MCD\Debug\net5.0\Ohjelmistologiikka.exe
+C:\Users\Moppy\CodeBootcamp\DotNet\Ohjelmistologiikka\bin\MCD\Debug\net5.0\Ohjelmistologiikka.deps.json
+C:\Users\Moppy\CodeBootcamp\DotNet\Ohjelmistologiikka\bin\MCD\Debug\net5.0\Ohjelmistologiikka.runtimeconfig.json
+C:\Users\Moppy\CodeBootcamp\DotNet\Ohjelmistologiikka\bin\MCD\Debug\net5.0\Ohjelmistologiikka.runtimeconfig.dev.json
+C:\Users\Moppy\CodeBootcamp\DotNet\Ohjelmistologiikka\bin\MCD\Debug\net5.0\Ohjelmistologiikka.dll
+C:\Users\Moppy\CodeBootcamp\DotNet\Ohjelmistologiikka\bin\MCD\Debug\net5.0\ref\Ohjelmistologiikka.dll
+C:\Users\Moppy\CodeBootcamp\DotNet\Ohjelmistologiikka\bin\MCD\Debug\net5.0\Ohjelmistologiikka.pdb
+C:\Users\Moppy\CodeBootcamp\DotNet\Ohjelmistologiikka\obj\MCD\Debug\net5.0\Ohjelmistologiikka.dll
+C:\Users\Moppy\CodeBootcamp\DotNet\Ohjelmistologiikka\obj\MCD\Debug\net5.0\ref\Ohjelmistologiikka.dll
+C:\Users\Moppy\CodeBootcamp\DotNet\Ohjelmistologiikka\obj\MCD\Debug\net5.0\Ohjelmistologiikka.pdb
+C:\Users\Moppy\CodeBootcamp\DotNet\Ohjelmistologiikka\obj\MCD\Debug\net5.0\Ohjelmistologiikka.genruntimeconfig.cache

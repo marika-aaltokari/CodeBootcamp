@@ -18,3 +18,8 @@
 /DotNet/Muuttujat/obj
 /DotNet/TiedostonLukujenSumma/bin/Debug/net5.0
 /DotNet/TiedostonLukujenSumma/obj
+/DotNet/.vs
+/DotNet/ArvaaLuku/.vscode
+/DotNet/ArvaaLuku/obj
+/DotNet/AspNetMvcDemo/bin/MCD/Debug/net5.0
+/DotNet/OlioOhjelmointi/OlioOhjelmointi/obj
