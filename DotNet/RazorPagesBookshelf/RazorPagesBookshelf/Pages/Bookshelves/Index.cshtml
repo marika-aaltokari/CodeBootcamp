@@ -1,0 +1,60 @@
+﻿@page
+@model RazorPagesBookshelf.Pages.Bookshelves.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>The Bookshelf</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Bookshelf[0].AuthorNames)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Bookshelf[0].AuthorSurname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Bookshelf[0].BookTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Bookshelf[0].Favorite)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Bookshelf[0].SavingDate)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Bookshelf) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.AuthorNames)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AuthorSurname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BookTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Favorite)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SavingDate)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.ID">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.ID">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.ID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
