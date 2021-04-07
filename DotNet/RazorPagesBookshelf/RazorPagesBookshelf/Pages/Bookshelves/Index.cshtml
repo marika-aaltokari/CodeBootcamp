@@ -15,9 +15,7 @@
 
 <form>
     <p>
-        <select asp-for="BookshelfFavorite" asp-items="Model.Favorites">
-            <option value="">All</option>
-        </select>
+        
         Title: <input type="text" asp-for="SearchString" />
         <input type="submit" value="Filter" />
     </p>
@@ -52,28 +50,30 @@
     <tbody>
         @foreach (var item in Model.Bookshelf)
         {
-            <tr>
-                <td>
-                    @Html.DisplayFor(modelItem => item.AuthorNames)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.AuthorSurname)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.BookTitle)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Favorite)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.SavingDate)
-                </td>
-                <td>
-                    <a asp-page="./Edit" asp-route-id="@item.ID">Edit</a> |
-                    <a asp-page="./Details" asp-route-id="@item.ID">Details</a> |
-                    <a asp-page="./Delete" asp-route-id="@item.ID">Delete</a>
-                </td>
-            </tr>
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.AuthorNames)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AuthorSurname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BookTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Favorite)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SavingDate)
+            </td>
+            
+            <td>
+                <a href="/Bookshelves/Edit?id=1">Edit</a> |
+                <a href="/Bookshelves/Details?id=1">Details</a> |
+                <a href="/Bookshelves/Delete?id=1">Delete</a>
+            </td>
+            
+        </tr>
         }
     </tbody>
 </table>
