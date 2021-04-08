@@ -1,0 +1,71 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@section scripts
+{
+    <script src="~/js/Demosovellus.js"></script>
+}
+
+<div class="text-center">
+    <h1 class="display-6">Saving the read book by the author's name or the title of the book</h1>
+
+
+
+    <br> <br />
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-2">
+                Author name(s):
+            </div>
+            <div class="col-sm-3">
+                <input type="text" class="form-control mb-3" id="authorName" name="authorName" required pattern="[A-Za-z]{5,}" title="At least 5 alphabetic characters" maxlength="20" />
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-2">
+                Author Surname:
+            </div>
+            <div class="col-sm-3">
+                <input type="text" class="form-control mb-3" id="authorSurname" required pattern="[A-Za-z]{5,}" title="At least 5 alphabetic characters" maxlength="20" />
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-2">
+                Title of the read book:
+            </div>
+            <div class="col-sm-3">
+                <input type="text" class="form-control mb-3" id="bookTitle" required pattern="[A-Za-z]{5,}" title="At least 5 alphabetic characters" maxlength="20" />
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-2">
+                Favorite:
+            </div>
+            <div class="col-sm-3">
+                <input type="checkbox" class="form-control mb-3" id="favorite" />
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-2">
+                Saving Date:
+            </div>
+            <div class="col-sm-3">
+                <input type="date" class="form-control mb-3" id="savingDate" name="savingDate" required />
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-3 offset-2">
+                <button id="Saving" class="btn btn-info">Save</button>
+            </div>
+        </div>
+
+
+    </div>
+</div>

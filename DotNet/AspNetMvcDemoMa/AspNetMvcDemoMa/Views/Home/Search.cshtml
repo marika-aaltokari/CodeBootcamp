@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Searching the book with the author or the title</h1>
+    <p></p>
+
+
+
+
+   
+
+    <br> <br />
+    
+         <div class="container">
+             <div class="row align-items-center justify-content-center" label=" keyword">
+                 <div class="col-sm-2">
+                     Keyword:
+                 </div>
+                 <div class="col-sm-3">
+                     <input type="text" class="form-control mb-3" id="searchstring" name="searchstring" required pattern="[A-Za-z]{3,}" title="At least 3 alphabetic characters" maxlength="20" />
+                 </div>
+             </div>
+             <div class="row align-items-center justify-content-center">
+                 <div class="col-sm-2 offset-2">
+                     <button id="Searching" class="btn btn-info">Search</button>
+                 </div>
+             </div>
+
+
+         </div>
+</div>
