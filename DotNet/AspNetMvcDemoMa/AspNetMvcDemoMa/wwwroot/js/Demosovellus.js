@@ -2,7 +2,7 @@
 // Avata paikallinen json-tiedosto ja tallentaa uudet inputit paikalliseen json-tiedostoon
 // Marika Aaltokari 8.4.2021 
 
-//<script type="text/javascript" src="~/books.json" ></script>
+//<script type="text/javascript" src="~/bookshelf.json" ></script>
 'use strict';
 
 
@@ -19,7 +19,7 @@ $("#saving").click(function () {
     console.log(etunimi + sukunimi + nimi + suosikki + päivämäärä);*/
 
     let book = {
-        AuthorName: $("#authorNames").val(),
+        AuthorNames: $("#authorNames").val(),
         AuthorSurname: $("#authorSurname").val(),
         Booktitle: '$("#bookTitle").val()',
         Favorite: '$("#favorite").val()',
@@ -31,7 +31,7 @@ $("#saving").click(function () {
     console.log("data:" + data);
 
     //Write Json string  to file
-    fs.writeFile('books.json', data, (err) => {
+    fs.writeFile('bookshelf.json', data, (err) => {
         if (err) throw err;
         console.log('Data written to file');
     });

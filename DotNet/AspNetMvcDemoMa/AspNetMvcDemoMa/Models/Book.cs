@@ -9,7 +9,7 @@ namespace AspNetMvcDemoMa.Models
     public class Book
     {
 
-        public int ID { get; set; }
+       //// public int ID { get; set; }
        // [RegularExpression(@"^[A-Z]+[a-zA-Z]*$"), Required, StringLength(30)]
         public string AuthorNames { get; set; }
         //[RegularExpression(@"^[A-Z]+[a-zA-Z]*$"), Required, StringLength(30)]
