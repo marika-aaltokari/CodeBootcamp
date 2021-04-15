@@ -1,0 +1,6 @@
+Scaffold-DbContext "Server=Maica\SQLEXPRESS;Database=Northwind;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+
+
+cmd:ssä
+dotnet ef dbcontext scaffold "Server=localhost;Database=Northwind;User Id=sa;Password=Huippusalainen;" Microsoft.EntityFrameworkCore.SqlServer -o Models

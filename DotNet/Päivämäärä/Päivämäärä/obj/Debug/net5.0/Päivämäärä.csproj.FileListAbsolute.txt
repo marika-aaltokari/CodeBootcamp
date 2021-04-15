@@ -1,0 +1,16 @@
+C:\Users\Moppy\CodeBootcamp\DotNet\Päivämäärä\Päivämäärä\bin\Debug\net5.0\Päivämäärä.exe
+C:\Users\Moppy\CodeBootcamp\DotNet\Päivämäärä\Päivämäärä\bin\Debug\net5.0\Päivämäärä.deps.json
+C:\Users\Moppy\CodeBootcamp\DotNet\Päivämäärä\Päivämäärä\bin\Debug\net5.0\Päivämäärä.runtimeconfig.json
+C:\Users\Moppy\CodeBootcamp\DotNet\Päivämäärä\Päivämäärä\bin\Debug\net5.0\Päivämäärä.runtimeconfig.dev.json
+C:\Users\Moppy\CodeBootcamp\DotNet\Päivämäärä\Päivämäärä\bin\Debug\net5.0\Päivämäärä.dll
+C:\Users\Moppy\CodeBootcamp\DotNet\Päivämäärä\Päivämäärä\bin\Debug\net5.0\ref\Päivämäärä.dll
+C:\Users\Moppy\CodeBootcamp\DotNet\Päivämäärä\Päivämäärä\bin\Debug\net5.0\Päivämäärä.pdb
+C:\Users\Moppy\CodeBootcamp\DotNet\Päivämäärä\Päivämäärä\obj\Debug\net5.0\Päivämäärä.csprojAssemblyReference.cache
+C:\Users\Moppy\CodeBootcamp\DotNet\Päivämäärä\Päivämäärä\obj\Debug\net5.0\Päivämäärä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moppy\CodeBootcamp\DotNet\Päivämäärä\Päivämäärä\obj\Debug\net5.0\Päivämäärä.AssemblyInfoInputs.cache
+C:\Users\Moppy\CodeBootcamp\DotNet\Päivämäärä\Päivämäärä\obj\Debug\net5.0\Päivämäärä.AssemblyInfo.cs
+C:\Users\Moppy\CodeBootcamp\DotNet\Päivämäärä\Päivämäärä\obj\Debug\net5.0\Päivämäärä.csproj.CoreCompileInputs.cache
+C:\Users\Moppy\CodeBootcamp\DotNet\Päivämäärä\Päivämäärä\obj\Debug\net5.0\Päivämäärä.dll
+C:\Users\Moppy\CodeBootcamp\DotNet\Päivämäärä\Päivämäärä\obj\Debug\net5.0\ref\Päivämäärä.dll
+C:\Users\Moppy\CodeBootcamp\DotNet\Päivämäärä\Päivämäärä\obj\Debug\net5.0\Päivämäärä.pdb
+C:\Users\Moppy\CodeBootcamp\DotNet\Päivämäärä\Päivämäärä\obj\Debug\net5.0\Päivämäärä.genruntimeconfig.cache

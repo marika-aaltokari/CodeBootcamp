@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    
     "authorNames": "Karen",
     "authorSurname": " Collins",
     "bookTitile": "Närä till döden",
@@ -9,7 +9,7 @@
   },
   {
 
-    "id": 2,
+    
     "authorNames": "Lotta",
     "authorSurname": "Dahl",
     "bookTitile": "Fadern",
@@ -18,7 +18,7 @@
   },
   {
 
-    "id": 3,
+    
     "authorNames": "Lucy",
     "authorSurname": "Foley",
     "bookTitile": "Jahti",
