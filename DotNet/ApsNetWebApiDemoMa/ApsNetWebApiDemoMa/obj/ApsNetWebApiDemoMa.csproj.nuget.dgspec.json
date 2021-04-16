@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Moppy\\CodeBootcamp\\DotNet\\RazorPagesBookshelf\\RazorPagesBookshelf.csproj": {}
+    "C:\\Users\\Moppy\\source\\repos\\ApsNetWebApiDemoMa\\ApsNetWebApiDemoMa\\ApsNetWebApiDemoMa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Moppy\\CodeBootcamp\\DotNet\\RazorPagesBookshelf\\RazorPagesBookshelf.csproj": {
+    "C:\\Users\\Moppy\\source\\repos\\ApsNetWebApiDemoMa\\ApsNetWebApiDemoMa\\ApsNetWebApiDemoMa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Moppy\\CodeBootcamp\\DotNet\\RazorPagesBookshelf\\RazorPagesBookshelf.csproj",
-        "projectName": "RazorPagesBookshelf",
-        "projectPath": "C:\\Users\\Moppy\\CodeBootcamp\\DotNet\\RazorPagesBookshelf\\RazorPagesBookshelf.csproj",
+        "projectUniqueName": "C:\\Users\\Moppy\\source\\repos\\ApsNetWebApiDemoMa\\ApsNetWebApiDemoMa\\ApsNetWebApiDemoMa.csproj",
+        "projectName": "ApsNetWebApiDemoMa",
+        "projectPath": "C:\\Users\\Moppy\\source\\repos\\ApsNetWebApiDemoMa\\ApsNetWebApiDemoMa\\ApsNetWebApiDemoMa.csproj",
         "packagesPath": "C:\\Users\\Moppy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Moppy\\CodeBootcamp\\DotNet\\RazorPagesBookshelf\\obj\\",
+        "outputPath": "C:\\Users\\Moppy\\source\\repos\\ApsNetWebApiDemoMa\\ApsNetWebApiDemoMa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Moppy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -50,6 +56,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

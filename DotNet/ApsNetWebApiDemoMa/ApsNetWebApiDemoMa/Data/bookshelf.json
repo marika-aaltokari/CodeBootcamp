@@ -1,0 +1,31 @@
+[
+  {
+    
+    "authorNames": "Karen",
+    "authorSurname": " Collins",
+    "bookTitile": "Närä till döden",
+    "favorite": false,
+    "savingDate": "7.8.2021"
+  },
+  {
+
+    
+    "authorNames": "Lotta",
+    "authorSurname": "Dahl",
+    "bookTitile": "Fadern",
+    "favorite": true,
+    "savingDate": "7.8.2021"
+  },
+  {
+
+    
+    "authorNames": "Lucy",
+    "authorSurname": "Foley",
+    "bookTitile": "Jahti",
+    "favorite": true,
+    "savingDate": "7.8.2021"
+  }
+
+]
+
+

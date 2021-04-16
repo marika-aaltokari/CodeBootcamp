@@ -1,0 +1,5 @@
+C:\Users\Moppy\CodeBootcamp\DotNet\RazorPagesBookshelf\obj\Debug\net5.0\RazorPagesBookshelf.csprojAssemblyReference.cache
+C:\Users\Moppy\CodeBootcamp\DotNet\RazorPagesBookshelf\obj\Debug\net5.0\RazorPagesBookshelf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moppy\CodeBootcamp\DotNet\RazorPagesBookshelf\obj\Debug\net5.0\RazorPagesBookshelf.AssemblyInfoInputs.cache
+C:\Users\Moppy\CodeBootcamp\DotNet\RazorPagesBookshelf\obj\Debug\net5.0\RazorPagesBookshelf.AssemblyInfo.cs
+C:\Users\Moppy\CodeBootcamp\DotNet\RazorPagesBookshelf\obj\Debug\net5.0\RazorPagesBookshelf.csproj.CoreCompileInputs.cache
