@@ -1,6 +1,6 @@
 using System;
 
-namespace AspNetMvcDemoMa.Models
+namespace AspNetMvcDemo2.Models
 {
     public class ErrorViewModel
     {

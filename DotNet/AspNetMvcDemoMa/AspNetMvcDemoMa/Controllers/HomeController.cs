@@ -1,4 +1,4 @@
-﻿using AspNetMvcDemoMa.Models;
+﻿using AspNetMvcDemo2.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -7,7 +7,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace AspNetMvcDemoMa.Controllers
+namespace AspNetMvcDemo2.Controllers
 {
     public class HomeController : Controller
     {
@@ -37,9 +37,6 @@ namespace AspNetMvcDemoMa.Controllers
         {
             return View();
         }
-
-
-
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

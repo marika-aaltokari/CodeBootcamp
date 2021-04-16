@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Moppy\\CodeBootcamp\\DotNet\\AspNetMvcDemoMa\\AspNetMvcDemoMa\\AspNetMvcDemoMa.csproj",
-      "projectName": "AspNetMvcDemoMa",
-      "projectPath": "C:\\Users\\Moppy\\CodeBootcamp\\DotNet\\AspNetMvcDemoMa\\AspNetMvcDemoMa\\AspNetMvcDemoMa.csproj",
+      "projectUniqueName": "C:\\Users\\Moppy\\CodeBootcamp\\DotNet\\AspNetMvcDemo2\\AspNetMvcDemo2\\AspNetMvcDemo2.csproj",
+      "projectName": "AspNetMvcDemo2",
+      "projectPath": "C:\\Users\\Moppy\\CodeBootcamp\\DotNet\\AspNetMvcDemo2\\AspNetMvcDemo2\\AspNetMvcDemo2.csproj",
       "packagesPath": "C:\\Users\\Moppy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Moppy\\CodeBootcamp\\DotNet\\AspNetMvcDemoMa\\AspNetMvcDemoMa\\obj\\",
+      "outputPath": "C:\\Users\\Moppy\\CodeBootcamp\\DotNet\\AspNetMvcDemo2\\AspNetMvcDemo2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Moppy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

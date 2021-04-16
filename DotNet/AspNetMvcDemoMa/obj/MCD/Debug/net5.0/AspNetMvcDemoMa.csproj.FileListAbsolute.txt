@@ -1,0 +1,8 @@
+C:\Users\Moppy\CodeBootcamp\DotNet\AspNetMvcDemoMa\obj\MCD\Debug\net5.0\AspNetMvcDemoMa.csprojAssemblyReference.cache
+C:\Users\Moppy\CodeBootcamp\DotNet\AspNetMvcDemoMa\obj\MCD\Debug\net5.0\AspNetMvcDemoMa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moppy\CodeBootcamp\DotNet\AspNetMvcDemoMa\obj\MCD\Debug\net5.0\AspNetMvcDemoMa.AssemblyInfoInputs.cache
+C:\Users\Moppy\CodeBootcamp\DotNet\AspNetMvcDemoMa\obj\MCD\Debug\net5.0\AspNetMvcDemoMa.AssemblyInfo.cs
+C:\Users\Moppy\CodeBootcamp\DotNet\AspNetMvcDemoMa\obj\MCD\Debug\net5.0\AspNetMvcDemoMa.csproj.CoreCompileInputs.cache
+C:\Users\Moppy\CodeBootcamp\DotNet\AspNetMvcDemoMa\obj\MCD\Debug\net5.0\AspNetMvcDemoMa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Moppy\CodeBootcamp\DotNet\AspNetMvcDemoMa\obj\MCD\Debug\net5.0\AspNetMvcDemoMa.RazorAssemblyInfo.cache
+C:\Users\Moppy\CodeBootcamp\DotNet\AspNetMvcDemoMa\obj\MCD\Debug\net5.0\AspNetMvcDemoMa.RazorAssemblyInfo.cs

@@ -1,11 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
-using RazorPagesBookshelf.Models;
-using System;
-using System.Collections.Generic;
+﻿using RazorPagesBookshelf.Models;
 using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace RazorPagesBookshelf.Controllers
 {
